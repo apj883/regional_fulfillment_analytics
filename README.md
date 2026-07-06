@@ -1,6 +1,6 @@
 # Regional Outbound Fulfillment & Logistics Analytics
 
-**[→ View the live interactive dashboard](https://apj883.github.io/regional_fulfillment_analytics/dashboard.html)**
+**[ View the live interactive dashboard](https://apj883.github.io/regional_fulfillment_analytics/dashboard.html)**
 
 A portfolio project simulating the full analytics scope of a Regional Supply Chain / Fulfillment Operations Analyst role: 3PL SLA management, Cost-per-Order reduction, OTIF tracking, EDD accuracy, failed-delivery root cause, cross-border US↔Canada distribution, and B2B seasonal-surge planning.
 
