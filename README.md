@@ -21,8 +21,7 @@ A portfolio project simulating the full analytics scope of a Regional Supply Cha
 | `04_build_workbook.py` | Generates the Excel KPI workbook (openpyxl) |
 | `build_report.js` | Generates the Word report (docx-js) |
 | `charts/` | All 11 report chart PNGs |
-| `LinkedIn_Post_Draft.md` | Ready-to-post LinkedIn copy (long + short versions) |
-| `Interview_Prep_QA.md` | Anticipated recruiter/interviewer questions with prepared answers |
+
 
 ## Reproducing the analysis
 
